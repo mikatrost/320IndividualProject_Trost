@@ -8,8 +8,8 @@
 #include "Adafruit_BME680.h"
 
 //WiFi credentials
-const char* WIFI_SSID = "NETGEAR33";
-const char* WIFI_PASS = "basicapple072";
+const char* WIFI_SSID = "";
+const char* WIFI_PASS = "";
 
 //Losant credentials
 const char* LOSANT_DEVICE_ID = "5e8ca146cf671000062b5d4f";
